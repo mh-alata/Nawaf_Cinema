@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">سينما نواف</string>
+    <string name="pickMovies">اختر الأفلام:</string>
+    <string name="check1">Raya and the Last Dragon</string>
+    <string name="check2">Hotel Transylvania 4</string>
+    <string name="check3">the mitchells vs. the machines</string>
+    <string name="No_Movies">عدد التذاكر:</string>
+    <string name="no_hint">e.g. 1,2,....etc</string>
+    <string name="confirm">تأكيد الحجز</string>
+    <string name="movie">الفيلم</string>
+    <string name="rate">التقييم</string>
+    <string name="good">جيد</string>
+    <string name="average">متوسط</string>
+    <string name="bad">سيئ</string>
+    <string name="save">حفظ</string>
+
+    <string-array name="moviesList">
+        <item>Raya and the Last Dragon</item>
+        <item>Hotel Transylvania 4</item>
+        <item>the mitchells vs. the machines</item>
+    </string-array>
+
+    <string-array name="mainList">
+        <item>كارتون الأطفال</item>
+        <item>حجز التذاكر</item>
+        <item>تقييم الأفلام</item>
+        <item>تعرف علينا</item>
+    </string-array>
+
+</resources>

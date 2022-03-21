@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Nawaf_Cinema</string>
+    <string name="pickMovies">Pick Movies:</string>
+    <string name="check1">Raya and the Last Dragon</string>
+    <string name="check2">Hotel Transylvania 4</string>
+    <string name="check3">the mitchells vs. the machines</string>
+    <string name="No_Movies">Number of Tickets:</string>
+    <string name="no_hint">e.g. 1,2,....etc</string>
+    <string name="confirm">CONFIRM RESERVATION</string>
+    <string name="movie">Movie</string>
+    <string name="rate">Rating</string>
+    <string name="good">Good</string>
+    <string name="average">Average</string>
+    <string name="bad">Bad</string>
+    <string name="save">SAVE</string>
+
+    <string-array name="moviesList">
+        <item>Raya and the Last Dragon</item>
+        <item>Hotel Transylvania 4</item>
+        <item>the mitchells vs. the machines</item>
+    </string-array>
+
+    <string-array name="mainList">
+        <item>Kids Carton</item>
+        <item>Book Tickets</item>
+        <item>Movie Rating</item>
+        <item>Visit US</item>
+    </string-array>
+
+</resources>
